@@ -9,5 +9,3 @@ This project serves as a foundation for building AI-powered features with a clea
 - **Tailwind CSS** for styling
 - **React Icons** for icons
 - **Google Fonts** (Montserrat)
-
-## Project Structure
