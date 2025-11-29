@@ -1,4 +1,4 @@
-# ALX Project 0x03 - Splash App
+# ALX Project - Splash App
 
 A Next.js application demonstrating modern web development practices including shared layouts, component-based architecture, routing, and responsive design.
 
